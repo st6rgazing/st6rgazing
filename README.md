@@ -1,70 +1,54 @@
-# hi, i'm mariam 👋
+# Hey, I'm Mariam 👋
 
-**Computer Science @ NYU Abu Dhabi · AI/ML · Software Engineering · Research**
+### CS @ NYU Abu Dhabi · AI/ML · Data Science · Software Engineering
 
-I'm a Computer Science student interested in **artificial intelligence and building practical AI systems**. My work spans **LLMs, machine learning, retrieval-augmented generation, model fine-tuning, and intelligent software applications**.
-
-I'm particularly interested in understanding how AI systems can be made **more capable, reliable, efficient, and useful in real-world settings**.
-
-### 🧠 AI & ML
-
-My experience includes:
-
-* **LLM fine-tuning** with PEFT / LoRA
-* **Retrieval-Augmented Generation (RAG)**
-* Semantic search & vector retrieval
-* Machine learning & model development
-* Feature engineering & data preprocessing
-* Dataset annotation & augmentation
-* Model evaluation and optimization
-* Applying AI to specialized domains
-
-Currently, I'm especially interested in **LLM systems, AI engineering, AI research, and the intersection of AI with software and security**.
-
-### 🔬 Research
-
-As an **Artificial Intelligence Researcher at EBRAIN Lab**, I work on improving LLM-based systems through RAG, optimized retrieval, fine-tuning, and data augmentation.
-
-My research has also explored **AI for software and code security**, including using LLMs to detect and understand vulnerabilities in code.
-
-### 🚀 Projects
-
-**AI Movie Recommendation System**
-
-Built an AI-powered recommendation system using user behavior and movie data, including preprocessing, feature engineering, model training, and evaluation.
-
-**Sawty — Secure Voting**
-
-Designed a secure voting system combining quantum key distribution, quantum-safe digital signatures, encryption, anonymization, and blockchain-based recording.
-
-### 💻 Beyond AI
-
-I also enjoy building software from the ground up and working across the stack.
-
-**Languages**
-
-`Python` `C++` `SQL` `JavaScript` `Dart`
-
-**AI / ML**
-
-`LLMs` `RAG` `PEFT` `LoRA` `Machine Learning` `Feature Engineering`
-
-**Development**
-
-`React` `Node.js` `Flutter` `Git`
-
-### 📚 Education
-
-**New York University Abu Dhabi**
-B.S. Computer Science · Minor in Applied Mathematics
-**GPA: 4.0 / 4.0**
-
-Relevant coursework includes Algorithms, Principles of Data Science, and Arabic Computational Linguistics.
-
-### 🌱 Currently exploring
-
-`AI Systems` · `LLMs` · `Machine Learning` · `RAG` · `AI Research` · `Software Engineering` · `AI Security`
+Building at the intersection of **AI, data, and software**.
 
 ---
 
-📫 **Let's connect:** [LinkedIn](YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL)
+## ⚡ Focus
+
+**🤖 AI / ML**
+LLMs · RAG · Model Evaluation · Applied ML · AI Systems
+
+**📊 Data Science**
+Data Analysis · Statistics · Feature Engineering · Visualization · Modeling
+
+**💻 Software Engineering**
+Python · C++ · Java · JavaScript · SQL · APIs · Full-Stack Development
+
+**🔐 AI Security**
+Code Security · Vulnerability Detection · LLM Security · Automated Analysis
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql,react,nodejs,docker,git" />
+</p>
+
+---
+
+## 🔬 Research
+
+**AI/ML Research**
+→ Dataset Development
+→ Model Development & Evaluation
+→ LLMs + RAG
+→ AI for Software Security
+
+📄 **Published & presented at WCCI / IJCNN 2026**
+
+---
+
+## 🎓 Education
+
+**New York University Abu Dhabi**
+B.S. Computer Science · Applied Mathematics Minor
+
+---
+
+### Currently exploring
+
+`AI/ML` · `Data Science` · `LLMs` · `AI Security` · `Software Engineering`
