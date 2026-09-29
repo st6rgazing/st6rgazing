@@ -1,12 +1,10 @@
-# Hey, I'm Mariam 👋
+# hey, i'm mariam !
 
 ### CS @ NYU Abu Dhabi · AI/ML · Data Science · Software Engineering
 
-Building at the intersection of **AI, data, and software**.
-
 ---
 
-## ⚡ Focus
+##  Focus
 
 **🤖 AI / ML**
 LLMs · RAG · Model Evaluation · Applied ML · AI Systems
