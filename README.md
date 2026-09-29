@@ -24,9 +24,7 @@ Code Security · Vulnerability Detection · LLM Security · Automated Analysis
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql,react,nodejs,docker,git" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,java,js,ts,sql,react,nodejs,docker,git" /> </p>
 
 ---
 
