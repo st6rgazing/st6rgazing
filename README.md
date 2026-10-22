@@ -2,7 +2,7 @@
 
 **CS + Math @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering
 
-creator of <img src="omen-eye.png" width="18" height="20" alt="" /> **[Omen](https://omen-game.me/)** 
+creator of <img src="omen-eye.png" width="16" height="17" alt="" style="vertical-align: middle;" /> **[Omen](https://omen-game.me/)**
 
 ---
 
