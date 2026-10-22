@@ -1,5 +1,7 @@
 # hi, i'm mariam!
 
+creator of [omen-game.me](https://omen-game.me/)
+
 **CS @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering
 
 ---
@@ -9,7 +11,7 @@ AI Systems · LLMs & RAG · Applied ML · Data Science · AI Security · Vulnera
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,java,js,ts,react,nodejs,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,java,js,ts,react,nodejs,docker,git" alt="python, pytorch, cpp, java, javascript, typescript, react, nodejs, docker, git" />
 </p>
 
 ### 📄 Research
