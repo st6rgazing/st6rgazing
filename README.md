@@ -1,6 +1,7 @@
 # Mariam
 
-**CS + Math @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering · creator of <a href="https://omen-game.me/"><img src="omen-eye.png" width="15" height="16" alt="" align="absmiddle" /> <b>Omen</b></a>
+**CS + Math @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering 
+creator of <a href="https://omen-game.me/"><img src="omen-eye.png" width="15" height="16" alt="" align="absmiddle" /> <b>Omen</b></a>
 
 ---
 
