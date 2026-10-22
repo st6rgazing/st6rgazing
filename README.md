@@ -1,8 +1,8 @@
 # Mariam
 
-**CS @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering
+**CS + Math @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering
 
-<img src="omen-eye.png" width="18" height="20" alt="" /> **[Omen](https://omen-game.me/)** — multiplayer Discord Activity card game
+creator of <img src="omen-eye.png" width="18" height="20" alt="" /> **[Omen](https://omen-game.me/)** 
 
 ---
 
@@ -19,5 +19,4 @@ AI/ML · LLMs + RAG for Software Security · Dataset Development & Model Evaluat
 
 Published & presented at WCCI / IJCNN 2026
 
-### Education
-**NYU Abu Dhabi** · B.S. Computer Science, Minor in Applied Mathematics
+
