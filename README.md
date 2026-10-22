@@ -1,4 +1,3 @@
-# Mariam
 
 **CS + Math @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering 
 
