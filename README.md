@@ -1,7 +1,7 @@
 
 **CS + Math @ NYU Abu Dhabi** · AI/ML · Data Science · Software Engineering 
 
-creator of <a href="https://omen-game.me/"><img src="omen-eye.png" width="15" height="16" alt="" align="absmiddle" /> <b>Omen</b></a> and <a href="https://playthelaw.app/"><img src="thelaw.png" width="15" height="16" alt="" align="absmiddle" /> <b>The Law</b></a> 
+creator of <a href="https://playthelaw.app/"><img src="thelaw.png" width="15" height="16" alt="" align="absmiddle" /> <b>The Law</b></a> and <a href="https://omen-game.me/"><img src="omen-eye.png" width="15" height="16" alt="" align="absmiddle" /> <b>Omen</b></a>
 
 ---
 ### Tech Stack
